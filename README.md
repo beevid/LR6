@@ -7,6 +7,7 @@
 
 # Ход работы
 * Изменение имени пользователя и email
+
 ![1](https://user-images.githubusercontent.com/117516272/202869926-1494fe59-6a8d-40cc-8d2a-e5cbf29e617c.png)
 * Клонирование репозитория в свой аккаунт
 ![2](https://user-images.githubusercontent.com/117516272/202869947-2997867e-f5c5-4895-93e5-fd251413940d.png)
