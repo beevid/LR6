@@ -59,3 +59,25 @@
 * Вывод всех коммитов в формате: сокращённый хэш + дата + имя автора + комментарий
 
 ![19](https://user-images.githubusercontent.com/117516272/202870301-bf42cff6-5d7b-4fff-a1e9-ab14ee4b9549.png)
+
+# Лог использованных команд
+* git config --global user.name
+* git config --global user.email
+* git clone
+* git pull
+* git checkout
+* git log
+* git log --all
+* git merge
+* git add
+* git commit -m
+* git push
+* git branch -d
+* git add
+* git reset --hard HEAD~
+* git branch
+* git push origin
+* git log --pretty=format:%h - %an, %ar : %s
+
+# Вывод
+В ходе выполнения лабораторной работы я изучил базовые возможности системы управления версиями, получил опыт работы с Git Api, опыт работы с локальным и удалённым репозиторием
